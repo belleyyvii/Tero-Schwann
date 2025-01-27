@@ -1,3 +1,4 @@
+# My Project A Simple Calculator
 # Setup string variables
 operator = input("Enter an operator (+ - * /): ")
 number1 = float(input("Enter the 1st number: "))
